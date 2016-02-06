@@ -32,7 +32,7 @@
    */
 
 
-  jsCodeLocation = [NSURL URLWithString:@"http://10.8.32.137:8081/index.ios.bundle?platform=ios&dev=false"];
+  jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.ios.bundle?platform=ios&dev=false"];
   // hack reactor ifconfig ip address: 10.8.32.137
   
   /**
